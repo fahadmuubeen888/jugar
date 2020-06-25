@@ -1,0 +1,21 @@
+@font-face{
+    font-family: 'lpc';
+    src: url('fonts/OpenSans-Regular.ttf');
+}
+h1{
+    color: red;
+    font-size: 72px;
+    text-decoration: underline;
+    text-align: center;
+}
+*{
+    font-family: lpc;
+}
+P{
+    text-transform: capitalize;
+    text-align: justify;
+
+}
+.para{
+    text-indent: 60px;
+}
